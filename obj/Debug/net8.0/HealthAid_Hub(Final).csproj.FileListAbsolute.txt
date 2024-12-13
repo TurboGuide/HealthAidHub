@@ -1,0 +1,17 @@
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\bin\Debug\net8.0\HealthAid_Hub(Final).exe
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\bin\Debug\net8.0\HealthAid_Hub(Final).deps.json
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\bin\Debug\net8.0\HealthAid_Hub(Final).runtimeconfig.json
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\bin\Debug\net8.0\HealthAid_Hub(Final).dll
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\bin\Debug\net8.0\HealthAid_Hub(Final).pdb
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\HealthAid_Hub(Final).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\HealthAid_Hub(Final).AssemblyInfoInputs.cache
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\HealthAid_Hub(Final).AssemblyInfo.cs
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\HealthAid_Hub(Final).csproj.CoreCompileInputs.cache
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\HealthAid_Hub(Final).dll
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\refint\HealthAid_Hub(Final).dll
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\HealthAid_Hub(Final).pdb
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\HealthAid_Hub(Final).genruntimeconfig.cache
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\ref\HealthAid_Hub(Final).dll
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\HealthAid_Hub(Final).csproj.AssemblyReference.cache
+C:\Users\divan\OneDrive\Documents\HealthAid_Hub(Final)\obj\Debug\net8.0\HealthAi.5837E3AA.Up2Date

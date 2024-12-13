@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HealthAid_Hub_Final_.AidAdmin">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAATAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>AidAdmin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HealthAid_Hub_Final_.AidGiver">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAACIAAAAAAAAAACRAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>AidGiver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HealthAid_Hub_Final_.AidRequestor">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAIAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAII=</HashCode>
+      <FileName>AidRequestor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HealthAid_Hub_Final_.CsvFileHandler">
+    <Position X="3.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAMAAQABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CSVFileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthAid_Hub_Final_.ItemRecord">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAIAAAQEAAAAAAgAAAAAgAAAAAA=</HashCode>
+      <FileName>ItemRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthAid_Hub_Final_.Menus">
+    <Position X="5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAIAABAAAAAQAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthAid_Hub_Final_.MenuNavigation">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAACAAAAAAAAAAIIAAAABAAAA=</HashCode>
+      <FileName>Menus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthAid_Hub_Final_.Program">
+    <Position X="3.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HealthAid_Hub_Final_.IActions">
+    <Position X="6.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>IActions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HealthAid_Hub_Final_.IRequests">
+    <Position X="6.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>IActions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HealthAid_Hub_Final_.IAdmin">
+    <Position X="6.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAARAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>IActions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
